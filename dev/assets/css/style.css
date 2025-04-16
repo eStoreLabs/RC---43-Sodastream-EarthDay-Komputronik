@@ -372,6 +372,7 @@
   padding: 6% 0% 2%;
   min-height: 600px;
   margin-bottom: 100px;
+  background: #eeeae5;
 }
 #es-rc #es-rc-content .es-video__container {
   position: relative;
@@ -703,7 +704,6 @@
   }
   #es-rc #es-rc-content .es-features {
     min-height: 637px;
-    max-width: 1920px;
   }
   #es-rc #es-rc-content .es-features__title {
     margin-bottom: 20px;
